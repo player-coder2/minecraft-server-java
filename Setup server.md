@@ -41,4 +41,5 @@ sudo java -Xmx1024M -Xms1024M -jar minecraft_server.jar nogui
 CTRL+A+D
 
 sudo screen -r
+
 ============================================
