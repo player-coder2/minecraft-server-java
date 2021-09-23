@@ -1,5 +1,5 @@
-# minecraft-server
-ubuntu how to setup a minecraft server
+# minecraft-server java
+ubuntu how to setup a minecraft server java only
 
 ==================================================================
 
